@@ -2,6 +2,7 @@
 
 Este repositorio contiene el ecosistema de desarrollo para un sistema avanzado de detección de phishing mediante **Inteligencia Artificial**.  
 El proyecto aborda el problema desde una perspectiva multidisciplinar: análisis de metadatos de URL, características heurísticas del HTML y visión por computador aplicada a activos visuales (**favicons**).
+El proyecto obtuvo una calificación de 10 (máximo) con opción a matrícula de honor.
 
 > **⚠️ Aviso importante:**  
 > Los códigos presentados en este repositorio son versiones generalizadas y optimizadas de los algoritmos originales. Se han simplificado para mejorar la claridad técnica y asegurar su reproducibilidad por parte de la comunidad. En la [Documentación del proyecto](./docs) podrás encontrar tanto mi memoria como mi presentación.
